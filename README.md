@@ -1,18 +1,3 @@
-
-<h1 align="center">
-    translate.js
-</h1>
-<h4 align="center">
-    两行js实现html全自动翻译
-</h4> 
-<h4 align="center">
-    当前为中文文档 |  <a href="../README.md">see english documents</a>
-</h4> 
-
-
-
-
-
 [English]()  
 
 - 温馨提醒: 本页面正在不断更新中，信息可能有残缺或不准确的地方。请持续关注，谢谢！ 
@@ -93,6 +78,7 @@ MacBook拷贝时出现“![输入图片说明](Pic/image9-1.png)”前缀的同�
     ①格式化TF卡    
     ②重新下载文件或联系售后人员获取屏幕固件文件重新更新固件    
     ③尝试使用问题6中的处理方法进行处理    
+
 
 
 
