@@ -1,3 +1,18 @@
+
+<h1 align="center">
+    translate.js
+</h1>
+<h4 align="center">
+    两行js实现html全自动翻译
+</h4> 
+<h4 align="center">
+    当前为中文文档 |  <a href="../README.md">see english documents</a>
+</h4> 
+
+
+
+
+
 [English]()  
 
 - 温馨提醒: 本页面正在不断更新中，信息可能有残缺或不准确的地方。请持续关注，谢谢！ 
