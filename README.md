@@ -14,8 +14,14 @@
 [更新日志](https://gitee.com/feng-zirong/neptune_3_pro/blob/master/Update%20log.md)
 
 ---    
-### 文件描述：    
-![输入图片说明](Pic/image.png)    
+### 文件描述： 
+
+| 固件命名方式|            |
+|------------|-------------------------------------|
+| xxxxxxxx.tft       |      屏幕固件          |
+| ZNP_ROBIN_NANO.bin |      主板固件           |
+
+   
 
 ---    
 ### 准备步骤：    
