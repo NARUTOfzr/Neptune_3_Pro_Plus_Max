@@ -4,12 +4,13 @@
 # **_Neptune3Pro/Plus/Max固件更新说明_**
 
 ### 固件版本兼容性：    
-| 屏幕版本      |      主板版本            |
-|------------|-------------------------------------|
-| 1.4       |      1.x.4 - 1.x.5.1          |
-| 1.5-Beta  |      1.x.5.2 - 1.x.5.3           |
+| 屏幕版本      |      主板版本            |          说明           |
+|------------|-------------------------------------|------------|
+| 1.4       |      1.x.4 - 1.x.5.1a          |   历史版本      |
+| V1.4.1       |      1.x.5.1a          |   Release版本  |
+| 1.5-Beta  |      1.x.5.2 - 1.x.5.3a           |  Beta版本   |
     
-[更新日志](https://gitee.com/feng-zirong/neptune_3_pro/blob/master/Update%20log.md)
+[更新日志](https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max/blob/main/Update log.md)
 
 ---    
 ### 文件描述： 
@@ -48,18 +49,18 @@
 ---  
 # **_`FAQ：`_** 
 1、屏幕固件和主板固件的兼容性关系？ 
-Neptune3Pro/Plus/Max机器的屏幕固件是通用的，主板固件也是使用的同一个源码。主板固件命名方式：    
+Neptune3Pro/Plus/Max机器的屏幕固件是通用的，主板固件也是使用的同一个源码，请根据自己的机器型号更新对应的固件文件。主板固件命名方式：    
 Neptune3Pro：1.1.x.x    
 Neptune3Plus:1.2.x.x   
 Neptune3Max:1.3.x.x    
-不同版本的屏幕固件以及主板固件之间的兼容性关系和更新内容请查看 [更新日志](https://gitee.com/feng-zirong/neptune_3_pro/blob/master/Update%20log.md) 。
+不同版本的屏幕固件以及主板固件之间的兼容性关系和更新内容请查看 [更新日志](https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max/blob/main/Update log.md) 。
 
 2、启动电源后一直显示界面“Update firmware...”，如图所示。    
 ![输入图片说明](Pic/image6-1.png)    
 原因：启动电源一段时间后，如果显示屏没接收到主板发出的信号，就会跳转到该界面，直到接收到主板信号后才会启动。    
 根本原因和解决方法：    
-①这是1.1.5.2版本之前的固件常见问题，建议检查更新固件。    
-②主板与显示屏之间的连接线接触不良（信号线接触不良），建议将连接线插紧点之后再重启。    
+①可能是历史固件中的bug，建议检查更新主板固件至1.x.5.1a。    
+②可能是主板与显示屏之间的连接线接触不良（信号线接触不良），建议将连接线插紧点之后再重启。    
     
 3、屏幕固件加载后不会重命名，可以重复加载，所以更新屏幕固件后必须移除TF卡；主板固件成功加载后会重命名为“ZNP_ROBIN_NANO.CUR”，可将后缀重命名后再次进行加载。  
 ![输入图片说明](Pic/image7.png)
@@ -78,9 +79,8 @@ Neptune3Max:1.3.x.x
 ![输入图片说明](Pic/image8-1.png)    
 原因：部分macOS系统的MacBook，在拷贝固件或其它文件的时候会产生“![输入图片说明](Pic/image9-1.png)”前缀的同名文件，在MacBook上没法查看，但是其它系统可以查看，这是导致更新屏幕固件失败的主要原因。如图所示：    
 ![输入图片说明](Pic/image9-2.png)     
-MacBook拷贝时出现“![输入图片说明](Pic/image9-1.png)”前缀的同名文件的解决方法：①将需要的文件移动至U盘。②打开“终端”。 ③输入dot_clean后面加一个空格，再将U盘图标拉拖入终端界面。④按下按键Enter后将U盘退出即可将“![输入图片说明](Pic/image9-1.png)”前缀的同名文件删除。     
-解决方法如视频所示操作即可： [video-1](https://youtu.be/mdb4PTPlJh4)   
-   
+MacBook拷贝时出现“![输入图片说明](Pic/image9-1.png)”前缀的同名文件的解决方法：①将需要的文件移动至U盘。②打开“终端”。 ③输入dot_clean后面加一个空格，再将U盘图标拉拖入终端界面。④按下按键Enter后将U盘退出即可将“![输入图片说明](Pic/image9-1.png)”前缀的同名文件删除。    
+解决方法如视频所示操作即可：[视频教程](https://www.bilibili.com/video/BV1Lv4y1C7Qz/?share_source=copy_web&vd_source=39af2b2e9e60f33607226e91f3f17001)    
 
 9、升级屏幕固件时显示图中错误。    
 ![输入图片说明](Pic/image8-2.png)   
