@@ -81,7 +81,7 @@ Neptune3Max:1.3.x.x
 原因：部分macOS系统的MacBook，在拷贝固件或其它文件的时候会产生“![输入图片说明](Pic/image9-1.png)”前缀的同名文件，在MacBook上没法查看，但是其它系统可以查看，这是导致更新屏幕固件失败的主要原因。如图所示：    
 ![输入图片说明](Pic/image9-2.png)     
 MacBook拷贝时出现“![输入图片说明](Pic/image9-1.png)”前缀的同名文件的解决方法： :point_right: 1)将需要的文件移动至U盘。 :point_right: 2)打开“终端”。  :point_right: 3)输入dot_clean后面加一个空格，再将U盘图标拉拖入终端界面。 :point_right: 4)按下按键Enter后将U盘退出即可将“![输入图片说明](Pic/image9-1.png)”前缀的同名文件删除。    
-解决方法如视频所示操作即可：[视频教程](https://www.bilibili.com/video/BV1Lv4y1C7Qz/?share_source=copy_web&vd_source=39af2b2e9e60f33607226e91f3f17001)    
+解决方法如视频所示操作即可：[bilibili视频教程](https://www.bilibili.com/video/BV1Lv4y1C7Qz/?share_source=copy_web&vd_source=39af2b2e9e60f33607226e91f3f17001) [YouTube视频教程](https://youtu.be/mdb4PTPlJh4)    
 
 9、升级屏幕固件时显示图中错误。    
 ![输入图片说明](Pic/image8-2.png)   
