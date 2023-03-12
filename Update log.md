@@ -1,4 +1,4 @@
-[固件更新说明](https://gitee.com/feng-zirong/neptune_3_pro/blob/master/README.md#https://gitee.com/feng-zirong/neptune_3_pro/blob/master/Update%20log.md)
+[固件更新说明](https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max)
 
 # 更新日志
 #### 固件版本兼容性
