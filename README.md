@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max/blob/main/README-en.md)
+
 - 温馨提醒: 本页面正在不断更新中，信息可能有残缺或不准确的地方。请持续关注，谢谢！ 
 
 ---
