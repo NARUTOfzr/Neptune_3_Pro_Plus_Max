@@ -8,8 +8,8 @@
 ### Firmware Version Compatibility:
 | Screen Version | Mainboard Version       | Description         |
 |----------------|-------------------------|---------------------|
-| 1.4            |      1.x.4 - 1.x.5.1a   | Historical version  |
-| V1.4.1         |      1.x.5.1a           | Release version     |
+| 1.4 - V1.4.1   |      1.x.4 - 1.x.5.1a   | Historical version  |
+| V1.4.2         |      1.x.5.1b           | Release version     |
 | 1.5-Beta       |      1.x.5.2 - 1.x.5.3a | Beta version        |
 
 [Update log](https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max/blob/main/Update%20log.md)
