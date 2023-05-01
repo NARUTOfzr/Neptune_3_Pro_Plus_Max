@@ -65,8 +65,8 @@
 1. 屏幕固件和主板固件的兼容性关系？
 
    Neptune3Pro/Plus/Max机器的屏幕固件是通用的，主板固件也是使用的同一个源码，请根据自己的机器型号更新对应的固件文件。主板固件命名方式：
-   Neptune3Pro：1.1.x.x
-   Neptune3Plus:1.2.x.x
+   Neptune3Pro：1.1.x.x\
+   Neptune3Plus:1.2.x.x\
    Neptune3Max:1.3.x.x
 
    不同版本的屏幕固件以及主板固件之间的兼容性关系和更新内容请查看 [更新日志](Update-log.md) 。
@@ -75,7 +75,7 @@
 
    ![输入图片说明](Pic/image6-1.png)
    原因：启动电源一段时间后，如果显示屏没接收到主板发出的信号，就会跳转到该界面，直到接收到主板信号后才会启动。
-   根本原因和解决方法：
+   根本原因和解决方法：\
    :point_right: 1)可能是历史固件中的bug，建议检查更新主板固件至 `1.x.5.1a` 。
 
    :point_right: 2)可能是主板与显示屏之间的连接线接触不良（信号线接触不良），建议将连接线插紧点之后再重启。
@@ -104,14 +104,18 @@
 
    ![输入图片说明](Pic/image9-2.png)
 
-   MacBook拷贝时出现“![输入图片说明](Pic/image9-1.png)”前缀的同名文件的解决方法： :point_right: 1)将需要的文件移动至U盘。 :point_right: 2)打开“终端”。  :point_right: 3)输入dot_clean后面加一个空格，再将U盘图标拉拖入终端界面。 :point_right: 4)按下按键Enter后将U盘退出即可将“![输入图片说明](Pic/image9-1.png)”前缀的同名文件删除。
+   MacBook拷贝时出现“![输入图片说明](Pic/image9-1.png)”前缀的同名文件的解决方法：\
+   :point_right: 1)将需要的文件移动至U盘。\
+   :point_right: 2)打开“终端”。\
+   :point_right: 3)输入dot_clean后面加一个空格，再将U盘图标拉拖入终端界面。\
+   :point_right: 4)按下按键Enter后将U盘退出即可将“![输入图片说明](Pic/image9-1.png)”前缀的同名文件删除。
    解决方法如视频所示操作即可：[bilibili视频教程](https://www.bilibili.com/video/BV1Lv4y1C7Qz/?share_source=copy_web&vd_source=39af2b2e9e60f33607226e91f3f17001) [YouTube视频教程](https://youtu.be/mdb4PTPlJh4)
 
 1. 升级屏幕固件时显示图中错误。
 
    ![输入图片说明](Pic/image8-2.png)
    原因：屏幕固件文件损坏。
-   解决方法：
-     :point_right: 1)格式化TF卡。
-     :point_right: 2)重新下载文件或联系售后人员获取屏幕固件文件重新更新固件。
+   解决方法：\
+     :point_right: 1)格式化TF卡。\
+     :point_right: 2)重新下载文件或联系售后人员获取屏幕固件文件重新更新固件。\
      :point_right: 3)尝试使用问题8中的处理方法进行处理。
