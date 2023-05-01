@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](Update-log.md)
+[![zh](https://img.shields.io/badge/lang-zh-blue.svg)](Update-log.md)
 
 # Update Log
 
