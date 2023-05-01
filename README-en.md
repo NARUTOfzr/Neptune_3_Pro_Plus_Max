@@ -29,8 +29,8 @@
 
 ## Update Instructions:
 
-1. Format the TF card as shown in the figure.
-   Requirements: File system (F): `FAT32`\
+1. Format the TF card as shown in the figure.\
+Requirements: File system (F): `FAT32`\
 ![Enter image description](Pic/image1.png)
 
 2. Copy the above two firmware files to the root directory of TF card as shown in the picture.\
