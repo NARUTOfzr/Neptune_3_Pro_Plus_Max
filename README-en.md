@@ -8,11 +8,13 @@
 
 ## Firmware Version Compatibility:
 
-| Screen Version | Mainboard Version       | Description         |
-|----------------|-------------------------|---------------------|
-| 1.4 - V1.4.1   |      1.x.4 - 1.x.5.1a   | Historical version  |
-| V1.4.2         |      1.x.5.1b           | Release version     |
-| 1.5-Beta       |      1.x.5.2 - 1.x.5.3a | Beta version        |
+
+| Screen Version | Motherboard Version | Description         |  Update time  |
+| ---------------|---------------------|---------------------|-----------|
+| V1.4.2          | 1.x.5.1b            | Release version     | 2023-05-20 |
+| 1.5-Beta       | 1.x.5.2 - 1.x.5.3a  | Beta                |           |
+| 1.4 - V1.4.1   | 1.x.4 - 1.x.5.1a    | Historical Versions |           |
+
 
 [Update log](Update-log-en.md)
 
@@ -23,7 +25,7 @@
 | Firmware Naming |                        |
 |-----------------|------------------------|
 | xxxxxxxx.tft    | Screen firmware        |
-| xxxxxxxx.bin    | Mainboard firmware     |
+| ZNP_ROBIN_NANO.bin    | Mainboard firmware     |
 
 ---
 

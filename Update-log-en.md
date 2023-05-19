@@ -8,30 +8,42 @@
 
 ## Firmware Version Compatibility
 
-| Screen Version | Motherboard Version | Description         |
-| ---------------|---------------------|---------------------|
-| 1.5-Beta       | 1.x.5.2 - 1.x.5.3a  | Beta                |
-| 1.4.2          | 1.x.5.1b            | Release version     |
-| 1.4 - V1.4.1   | 1.x.4 - 1.x.5.1a    | Historical Versions |
+| Screen Version | Motherboard Version | Description         |  Update time  |
+| ---------------|---------------------|---------------------|-----------|
+| V1.4.2          | 1.x.5.1b            | Release version     | 2023-05-20 |
+| 1.5-Beta       | 1.x.5.2 - 1.x.5.3a  | Beta                |           |
+| 1.4 - V1.4.1   | 1.x.4 - 1.x.5.1a    | Historical Versions |           |
 
 ---
 
 ## Screen Firmware Changelog
 
-### 1.5-Beta
+
+### UI版本：V1.4.2 - 20230520  
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+
+### 1.5-Beta  
 
 1. New UI version, there is a compatibility relationship with motherboard firmware versions below 1.x.5.2 (Z direction is displayed as 0), but it does not affect the actual printing.
 2. Add the first page to display XYZ coordinate system.
 3. Z coordinate display accuracy to percentile.
 4. This version is a beta version, continuous improvement will be made to add more functions.
 
-### 1.4.1
+### 1.4.1  
 
 1. Optimize on the basis of version 1.4.2.
 2. Compatible with motherboard firmware before firmware 1.1.5.1a.
 3. Solve the problem of synchronizing the 'break material detection switch' with the 'ready screen move button' switch.
 
-### 1.4
+### 1.4  
 
 1. Fix the problem that the display is dead and stuck.
 2. Add blue screen prompt after detecting screen error. 3.
@@ -40,9 +52,9 @@
 
 ---
 
-## Motherboard Firmware Update Log
+## Motherboard Firmware Update Log  
 
-### 1.x.5.1b
+### 1.x.5.1b - 20230520  
 
 1. Improve on 1.x.5.1a, compatible with UI version V1.4.2 (not compatible with UI version 1.5-Beta).
 2. Fix a broken material alarm that was incorrectly triggered once when reopening the broken material detection after closing it.
