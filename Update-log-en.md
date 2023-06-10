@@ -19,31 +19,33 @@
 ## Screen Firmware Changelog
 
 
-### UI版本：V1.4.2 - 20230520  
+### UI version: V1.4.2 - 20230520   
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. Optimized from V1.4.1.   
+2. Compatible with motherboard firmware prior to 1.1.5.1b.    
+3. Support multi-file display, in [Settings] - [Advanced Settings] can enable multi-file display. (Note: this feature is only compatible with motherboard firmware 1.x.5.1b)    
+4. Supports folder printing. (Note: this feature is only compatible with motherboard firmware 1.x.5.1b)   
+5. The fan speed in print is shown as: (0-100) %; The fan speed is set to 0-255.    
+6. Added a prompt for M600 to trigger refuelling.   
+7. Fixed the issue of no backlight on the screen when the minimum brightness of the screen was 10%.   
 
 
-### 1.5-Beta  
+
+
+### UI version: 1.5-Beta  
 
 1. New UI version, there is a compatibility relationship with motherboard firmware versions below 1.x.5.2 (Z direction is displayed as 0), but it does not affect the actual printing.
 2. Add the first page to display XYZ coordinate system.
 3. Z coordinate display accuracy to percentile.
 4. This version is a beta version, continuous improvement will be made to add more functions.
 
-### 1.4.1  
+### UI version: 1.4.1  
 
 1. Optimize on the basis of version 1.4.2.
 2. Compatible with motherboard firmware before firmware 1.1.5.1a.
 3. Solve the problem of synchronizing the 'break material detection switch' with the 'ready screen move button' switch.
 
-### 1.4  
+### UI version: 1.4  
 
 1. Fix the problem that the display is dead and stuck.
 2. Add blue screen prompt after detecting screen error. 3.
